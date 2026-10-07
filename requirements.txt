@@ -1,0 +1,5 @@
+mlx-audio[tts]==0.5.4
+soundfile==0.14.0
+faster-whisper==1.2.1
+torch==2.14.0
+sentencepiece==0.2.2

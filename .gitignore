@@ -1,0 +1,5 @@
+.venv/
+.models/
+.local-data/
+build/
+__pycache__/
